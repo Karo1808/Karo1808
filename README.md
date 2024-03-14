@@ -1,5 +1,5 @@
 Hi 👋 My name is Karol
-======================Web Developer-------------With a background in web development, I'm driven by the endless possibilities that innovative technology offers. Whether it's experimenting with new frameworks, diving into emerging programming languages, or exploring the potential of cutting-edge tools, I'm always eager to push the boundaries of what's possible in the digital realm.* 🌍  I'm based in Poland* ✉️  You can contact me at [karol.pietrucha@proton.me](mailto:karol.pietrucha@proton.me)* 🧠  I'm learning Node.js and Figma* 🤝  I'm open to collaborating on Original and innovative projects* ⚡  innovative
+A Software Engineer with background in web development, I'm driven by the endless possibilities that innovative technology offers. Whether it's experimenting with new frameworks, diving into emerging programming languages, or exploring the potential of cutting-edge tools, I'm always eager to push the boundaries of what's possible in the digital realm.* 🌍  I'm based in Poland* ✉️  You can contact me at [karol.pietrucha@proton.me](mailto:karol.pietrucha@proton.me)* 🧠  I'm learning Node.js and Figma* 🤝  I'm open to collaborating on Original and innovative projects* ⚡  innovative
 
 ### Skills
 
