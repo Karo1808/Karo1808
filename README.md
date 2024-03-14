@@ -1,16 +1,21 @@
-##  Hi I'm Karol
- ### A Web Developer from Poland
+<h1 align="center">Hi I'm Karol</h1>
+<div>
+ 
+   <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  height="180"  align= "right" alt="Coding" >
 
-<div style="display: flex; align-items: center;">
-    <p style="margin-left: 20px;">Hello there! I'm a passionate web developer hailing from the beautiful country of Poland. With a fervent interest in exploring various technologies, I thrive on the excitement of diving into innovative and original projects.
+ - 🔭 I’m currently working on **Book Tracking Web Appilcation**
 
-   My journey in web development has been a thrilling exploration of the digital realm, where creativity meets technology. From crafting visually stunning frontend experiences using HTML, CSS, and JavaScript to architecting robust backend solutions with Node.js and Express.js, I love every aspect of building web applications.
 
-   What truly drives me is the pursuit of innovation. I'm always on the lookout for groundbreaking technologies and unconventional ideas that have the potential to revolutionize the way we interact with the web. 
+- 🌱 I’m currently learning **Node.js and Figma**
 
-   If you share a passion for technology, innovation, and creating something truly remarkable, I'd love to connect with you! Let's embark on this exciting journey together and build something extraordinary.</p>
-    <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height=400 alt="Coding" >
+
+- 💬 Ask me about **React, Next.js**
+
+
+- 📫 How to reach me **karol.pietrucha@proton.me**
+
 </div>
+
 
 
 
