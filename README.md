@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Node.js**
 
 
-- 💬 Ask me about **React, Next.js**
+- 💬 Ask me about **React, Next.js, Typescript**
 
 
 - 📫 How to reach me **karol.pietrucha@proton.me**
