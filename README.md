@@ -6,9 +6,6 @@
  - 🔭 I’m currently working on a **Quiz Web Application**
 
 
-- 🌱 I’m currently learning **Node.js**
-
-
 - 💬 Ask me about **React, Next.js, Typescript**
 
 
